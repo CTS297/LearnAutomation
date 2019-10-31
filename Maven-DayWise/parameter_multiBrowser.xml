@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite parallel="tests" name="Suite1" thread-count="5">
+  <test name="Test1">
+    <parameter name="browserName" value = "Chrome"></parameter>
+    <classes>
+      <class name="day1_Basics.Class6_ParameterXML"/>
+    </classes>
+  </test> <!-- Test1 -->
+  <test name="Test2">
+    <parameter name="browserName" value = "Firefox"></parameter>
+    <classes>
+      <class name="day1_Basics.Class6_ParameterXML"/>
+    </classes>
+  </test> <!-- Test1 -->
+  <test name="Test3">
+    <parameter name="browserName" value = "IE"></parameter>
+    <classes>
+      <class name="day1_Basics.Class6_ParameterXML"/>
+    </classes>
+  </test> <!-- Test1 -->
+</suite> <!-- Suite1 -->

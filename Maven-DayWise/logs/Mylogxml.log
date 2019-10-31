@@ -1,0 +1,4 @@
+[ERROR] 2019-10-18 00:29:23.693 [main] Log4Jtestcase - This is error message
+[FATAL] 2019-10-18 00:29:23.723 [main] Log4Jtestcase - This is fatal message
+[WARN ] 2019-10-18 00:29:23.724 [main] Log4Jtestcase - This is warning message
+[DEBUG] 2019-10-18 00:29:23.725 [main] Log4Jtestcase - This is debug message

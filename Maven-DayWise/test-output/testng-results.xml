@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-10-29T08:42:40Z" name="Default suite" finished-at="2019-10-29T08:42:57Z" duration-ms="16553">
+    <groups>
+    </groups>
+    <test started-at="2019-10-29T08:42:40Z" name="Default test" finished-at="2019-10-29T08:42:57Z" duration-ms="16553">
+      <class name="day10_recordKatalon.RecordedTC">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:day10_recordKatalon.RecordedTC@68567e20]" started-at="2019-10-29T08:42:40Z" name="setUp" finished-at="2019-10-29T08:42:52Z" duration-ms="11890" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testRecordedTC()[pri:0, instance:day10_recordKatalon.RecordedTC@68567e20]" started-at="2019-10-29T08:42:52Z" name="testRecordedTC" finished-at="2019-10-29T08:42:56Z" duration-ms="3705" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRecordedTC -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:day10_recordKatalon.RecordedTC@68567e20]" started-at="2019-10-29T08:42:56Z" name="tearDown" finished-at="2019-10-29T08:42:57Z" duration-ms="906" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- day10_recordKatalon.RecordedTC -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
